@@ -3,5 +3,3 @@ Le projet étant démarré, les premières idées vont-être versionnées pour voir leu
 Les tâches techniques à effectuer sont dans le
 fichier TODO.txt
 
-Les tâches techniques à effectuer sont dans le
-fichier TODO.txt
